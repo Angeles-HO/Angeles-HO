@@ -39,7 +39,7 @@
 
 ## 💼 About Me
 
-- Software developer with 1 year of professional experience
+- Software developer with 1 year of professional experience, backed by several years of self-directed learning and personal projects.
 - Strong CS fundamentals · Software Engineering · Clean Architecture
 - Comfortable working with English technical documentation and international development environments
 - Problem solver focused on code optimization and performance
