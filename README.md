@@ -199,9 +199,3 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Angeles-HO&layout=compact&langs_count=8&theme=algolia&border_radius=10" alt="Top Languages" />
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/Angeles-HO">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Angeles-HO&theme=algolia&border_radius=10" alt="GitHub Streak" />
-  </a>
-</p>
