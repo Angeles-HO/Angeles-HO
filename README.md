@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hello, I'm Angeles-HO!
+# 👋 Hello, I'm Angeles!
 
 ---
 
