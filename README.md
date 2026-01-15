@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 👋 Hello, I'm Angeles!
+# 👋 Hello, I'm Angel!
 
 ---
 
@@ -20,6 +18,8 @@
 
 ---
 
+> Most projects listed are production-oriented systems developed under real-world constraints. Designed for real systems, not idealized ones.
+
 ## ⭐ Featured Projects
 
 - **Digital Menu System (QR)** _(Private)_  
@@ -30,7 +30,7 @@
 
 - **Android Network Optimizer (Magisk)** _(Awaiting stable release)_  
   Bash · System Properties · Scoring Logic · Network performance optimization  
-  *Pending final stable version before public launch*
+  _Pending final stable version before public launch_
 
 - **E-commerce Cosmetics Platform** _(Private)_  
   Node.js · Express · PostgreSQL · Redis · Docker · Nginx · CSRF · Rate Limiting · Cart · Categories · Products Management
@@ -136,7 +136,7 @@
 - **Containerization**: Docker, Docker Compose (Network, Volumes, Hosts)
 - **Web Server**: Nginx, Dockploy
 - **OS**: Windows, Linux, Linux Mint
-- **Version Control**: Svn, Git, GitHub, GitLab
+- **Version Control**: svn, Git, GitHub, GitLab
 - **API Testing**: Postman
 - **Process Manager**: Nodemon (development)
 - **Package Manager**: npm (workspaces)
