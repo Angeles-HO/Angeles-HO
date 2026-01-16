@@ -90,7 +90,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,sequelize,hibernate,jquery,maven,regex" alt="Frameworks & Libraries" /> 
   </a>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
 </div>
 
 <details>
