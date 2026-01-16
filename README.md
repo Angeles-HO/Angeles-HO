@@ -69,11 +69,11 @@
 
 ## 💻 Languages
 
-<p align="center">
+<div align="center" style="background-color: #f5f5f5; display: flex; flex-direction: column; align-items: center; padding: 10px; border-radius: 8px;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,java,py,html,css,bash,lua,php" alt="Programming Languages" />
   </a>
-</p>
+</div>
 
 <details>
 <summary>View details</summary>
@@ -86,11 +86,12 @@
 
 ## 🚀 Frameworks & Libraries
 
-<p align="center">
+<div align="center" style="background-color: #f5f5f5; display: flex; flex-direction: column; align-items: center; padding: 10px; border-radius: 8px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,sequelize,hibernate,jquery,maven,regex" alt="Frameworks & Libraries" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,sequelize,hibernate,jquery,maven,regex" alt="Frameworks & Libraries" /> 
   </a>
-</p>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
+</div>
 
 <details>
 <summary>View details</summary>
@@ -108,16 +109,19 @@
 
 ## 🗄️ Databases
 
-<p align="center">
+<div align="center" style="background-color: #f5f5f5; display: flex; flex-direction: column; align-items: center; padding: 10px; border-radius: 8px;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,sqlite" alt="Databases" />
   </a>
-</p>
-
+  <div>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" />
+  </div>
+</div>
+ 
 <details>
 <summary>View details</summary>
 
-- **Relational**: PostgreSQL, MySQL, SQLite
+- **Relational**: PostgreSQL, MySQL, SQLite, Hibernate (Java)
 - **NoSQL**: MongoDB, Firebase
 - **Cache**: Redis
 
@@ -125,11 +129,11 @@
 
 ## 🛠️ DevOps & Tools
 
-<p align="center">
+<div align="center" style="background-color: #f5f5f5; display: flex; flex-direction: column; align-items: center; padding: 10px; border-radius: 8px;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,nginx,windows,linux,mint,git,github,gitlab,postman" alt="DevOps & Tools" />
   </a>
-</p>
+</div>
 
 <details>
 <summary>View details</summary>
@@ -146,16 +150,16 @@
 
 ## 📝 Development Environment
 
-<p align="center">
+<div align="center" style="background-color: #f5f5f5; display: flex; flex-direction: column; align-items: center; padding: 10px; border-radius: 8px;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=,vscode,visualstudio,androidstudio,eclipse" alt="IDEs & Editors" />
   </a>
-</p>
+</div>
 
 <details>
 <summary>View details</summary>
 
-- **Code Editors**: Visual Studio Code, Visual Studio, Android Studio, Eclipse
+- **Code Editors**: Visual Studio Code, Visual Studio, Android Studio, Eclipse, Oracle sql Developer
 
 </details>
 
@@ -194,9 +198,9 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<div align="center" style="background-color: #f5f5f5; display: flex; flex-direction: column; align-items: center; padding: 10px; border-radius: 8px;">
   <a href="https://github.com/Angeles-HO">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Angeles-HO&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Angeles-HO&layout=compact&langs_count=8&theme=algolia&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Angeles-HO&layout=compact&langs_count=10&theme=algolia&border_radius=10" alt="Top Languages" />
   </a>
-</p>
+</div>
