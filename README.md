@@ -147,7 +147,7 @@
 - **Package Manager**: npm (workspaces)
 
 </details>
-
+ 
 ## 📝 Development Environment
 
 <div align="center" style="background-color: #f5f5f5; display: flex; flex-direction: column; align-items: center; padding: 10px; border-radius: 8px;">
