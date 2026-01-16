@@ -23,7 +23,8 @@
 ## ⭐ Featured Projects
 
 - **Digital Menu System (QR)** _(Private)_  
-  Node.js · PostgreSQL · Docker · Cache · Sync Jobs
+  Node.js · PostgreSQL · Docker · Cache · Sync Jobs  
+  Docs: [Architecture](https://github.com/Angeles-HO/architecture-portfolio/tree/2a592e59dccbaae27523c1ff83547cfc454fde9c/projects/digital-menu-qr)
 
 - **Data Sync Pipeline** _(Private)_  
   Python · JSON Snapshots · Hash Diff · Idempotent Jobs
@@ -33,7 +34,8 @@
   _Pending final stable version before public launch_
 
 - **E-commerce Cosmetics Platform** _(Private)_  
-  Node.js · Express · PostgreSQL · Redis · Docker · Nginx · CSRF · Rate Limiting · Cart · Categories · Products Management
+  Node.js · Express · PostgreSQL · Redis · Docker · Nginx · CSRF · Rate Limiting · Cart · Categories · Products Management  
+  Docs: [Architecture](https://github.com/Angeles-HO/architecture-portfolio/blob/2a592e59dccbaae27523c1ff83547cfc454fde9c/projects/ecommerce-cosmetics/README.md)
 
 ---
 
@@ -48,8 +50,7 @@
 <summary>📚 Currently Learning</summary>
 
 - Pandas
-- Machine Learning
-- Cloud Computing
+- Machine Learning (Paused)
 - Cybersecurity
 - Mobile Development
 
