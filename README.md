@@ -29,9 +29,9 @@
 - **Data Sync Pipeline** _(Private)_  
   Python · JSON Snapshots · Hash Diff · Idempotent Jobs
 
-- **Android Network Optimizer (Magisk)** _(Awaiting stable release)_  
+- **Android Network Optimizer (Magisk)**
   Bash · System Properties · Scoring Logic · Network performance optimization  
-  _Pending final stable version before public launch_
+  Repo: [Android Network Optimizer](https://github.com/Angeles-HO/kitsunping)
 
 - **E-commerce Cosmetics Platform** _(Private)_  
   Node.js · Express · PostgreSQL · Redis · Docker · Nginx · CSRF · Rate Limiting · Cart · Categories · Products Management  
