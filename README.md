@@ -200,6 +200,6 @@
 <div align="center" style="background-color: #f5f5f5; display: flex; flex-direction: column; align-items: center; padding: 10px; border-radius: 8px;">
   <a href="https://github.com/Angeles-HO">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Angeles-HO&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_radius=10" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Angeles-HO&layout=compact&langs_count=10&theme=algolia&border_radius=10" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Angeles-HO&layout=compact&langs_count=10&theme=algolia&border_radius=10" alt="Top Languages" /> 
   </a>
 </div>
