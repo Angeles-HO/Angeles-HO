@@ -26,9 +26,6 @@
   Node.js · PostgreSQL · Docker · Cache · Sync Jobs  
   Docs: [Architecture](https://github.com/Angeles-HO/architecture-portfolio/tree/2a592e59dccbaae27523c1ff83547cfc454fde9c/projects/digital-menu-qr)
 
-- **Data Sync Pipeline** _(Private)_  
-  Python · JSON Snapshots · Hash Diff · Idempotent Jobs
-
 - **Android Network Optimizer (Magisk)**
   Bash · System Properties · Scoring Logic · Network performance optimization  
   Repo: [Android Network Optimizer](https://github.com/Angeles-HO/kitsunping)
