@@ -2,23 +2,22 @@
 
 ---
 
-![Backend Focus](https://img.shields.io/badge/Focus-Backend%20Development-blue)
+![Backend Focus](https://img.shields.io/badge/Focus-Backend%20%2B%20Frontend%20Integration-blue)
 ![Linux](https://img.shields.io/badge/Linux-Primary%20OS-orange)
 ![English](https://img.shields.io/badge/English-Technical-success)
 ![Spanish](https://img.shields.io/badge/Spanish-Native-lightgrey)
 
 ---
 
-## 🎯 Current Focus
+## 💡 Professional Summary
 
-- Backend Architecture
-- API Design & Security
-- Data Synchronization Systems
-- Cloud & DevOps
+Backend-focused software developer with production-oriented experience across secure APIs, frontend integration, and automation workflows.
+
+- Strong in backend architecture, REST API design, and security hardening.
+- Practical experience integrating React-based frontends with robust backend services.
+- Focused on maintainability, performance, and delivery under real-world constraints.
 
 ---
-
-> Most projects listed are production-oriented systems developed under real-world constraints. Designed for real systems, not idealized ones.
 
 ## ⭐ Featured Projects
 
@@ -36,12 +35,26 @@
 
 ---
 
+## 🎯 Core Expertise
+
+- Backend Architecture
+- API Design & Security
+- REST API Design, Integration & Documentation
+- React Ecosystem (React, React DOM, Component Architecture)
+- Testing Strategy for Components and Services
+- Data Synchronization Systems
+- Cloud & DevOps
+- Automation Workflows
+
+---
+
 ## 💼 About Me
 
-- Software developer with 1 year of professional experience, backed by several years of self-directed learning and personal projects.
-- Strong CS fundamentals · Software Engineering · Clean Architecture
+- Software developer with over 1 year of professional experience, backed by several years of self-directed learning and personal projects.
+- Strong focus on backend architecture, API design, clean code, auditability, and security best practices in production-oriented systems.
 - Comfortable working with English technical documentation and international development environments
-- Problem solver focused on code optimization and performance
+- Experience designing and consuming REST APIs in production-oriented systems
+- Problem solver focused on code optimization, maintainability, and performance
 
 <details>
 <summary>📚 Currently Learning</summary>
@@ -76,7 +89,7 @@
 <summary>View details</summary>
 
 - **Frontend**: JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Backend**: JavaScript/Node.js, TypeScript, Python, Java
+- **Backend**: JavaScript/Node.js, TypeScript, Python, Java (6, 8, 17, 24)
 - **Scripting**: Bash (Unix, POSIX (Android scripting), Linux), Lua, PHP
 
 </details>
@@ -92,9 +105,11 @@
 <details>
 <summary>View details</summary>
 
-- **Frontend**: React, Next.js
+- **Frontend**: React, React DOM, Next.js
 - **Backend**: Node.js, Express.js
+- **Scaffolding & Architecture Tools**: JHipster
 - **ORM**: Sequelize
+- **API Architecture**: RESTful APIs, endpoint design, validation layers, API hardening
 - **Authentication**: JWT (JSON Web Tokens)
 - **Security**: Helmet, bcrypt, argon2, CSRF protection
 - **Session Management**: express-session, connect-redis
@@ -137,10 +152,11 @@
 - **Containerization**: Docker, Docker Compose (Network, Volumes, Hosts)
 - **Web Server**: Nginx, Dockploy
 - **OS**: Windows, Linux, Linux Mint
-- **Version Control**: svn, Git, GitHub, GitLab
+- **Version Control**: SVN, Git, GitHub, GitLab
 - **API Testing**: Postman
 - **Process Manager**: Nodemon (development)
 - **Package Manager**: npm (workspaces)
+- **Automation**: Bash/Python scripting for deployment, packaging, and operational tasks
 
 </details>
  
@@ -155,7 +171,7 @@
 <details>
 <summary>View details</summary>
 
-- **Code Editors**: Visual Studio Code, Visual Studio, Android Studio, Eclipse, Oracle sql Developer
+- **Code Editors**: Visual Studio Code, Visual Studio, Android Studio, Eclipse, Oracle SQL Developer
 
 </details>
 
@@ -167,7 +183,8 @@
 - **Linting**: ESLint
 - **Code Formatting**: Prettier (via configuration)
 - **Git Hooks**: Husky
-- **Testing**: Unit, Integration, E2E (framework ready)
+- **Testing**: Unit, Integration, E2E, component testing, API testing
+- **UI Documentation & Validation**: Storybook and component-driven development practices
 
 </details>
 
@@ -182,6 +199,7 @@
 - **Rate Limiting**: Request throttling
 - **CORS**: Configurable cross-origin policies
 - **Helmet**: Security headers middleware
+- **Dependency Hardening**: npm audit, .npmrc/.mvnrc configuration, and custom scripts for dependency monitoring
 
 </details>
 
@@ -196,7 +214,7 @@
 
 <div align="center" style="background-color: #f5f5f5; display: flex; flex-direction: column; align-items: center; padding: 10px; border-radius: 8px;">
   <a href="https://github.com/Angeles-HO">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Angeles-HO&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&border_radius=10&cache_seconds=1800&v=1" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Angeles-HO&layout=compact&langs_count=10&theme=algolia&border_radius=10&cache_seconds=1800&v=1" alt="Top Languages" />  
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Angeles-HO&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true&cache_seconds=21600" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Angeles-HO&layout=compact&langs_count=10&theme=transparent&hide_border=true&cache_seconds=21600&size_weight=0.5&count_weight=0.5" alt="Top Languages" /> 
   </a>
 </div>
